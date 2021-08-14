@@ -13,6 +13,6 @@ In this session we had a look at:
 LAUNCH the Interactive Jupyter notebook HERE -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_5_Conditional_Tests/main?filepath=Conditional_Tests_notes.ipynb)
 
 ADDITIONAL NOTES
-1. Find the link to the book from which we do most of our exercises [https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf]
-2. We upload any video interactions to our YouTube channel [https://www.youtube.com/channel/UC_ZRbI2d7dtskvXzohhO7Sw/playlists] Bioinformatics Study Club
+1. Find the link to the book from which we do most of our exercises [HERE](https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf)
+2. We upload any video interactions to our [YouTube channel] (https://www.youtube.com/channel/UC_ZRbI2d7dtskvXzohhO7Sw/playlists) Bioinformatics Study Club
 
