@@ -14,5 +14,5 @@ LAUNCH the Interactive Jupyter notebook HERE -> [![Binder](https://mybinder.org/
 
 ADDITIONAL NOTES
 1. Find the link to the book from which we do most of our exercises [HERE](https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf)
-2. We upload any video interactions to our [YouTube channel] (https://www.youtube.com/channel/UC_ZRbI2d7dtskvXzohhO7Sw/playlists) Bioinformatics Study Club
+2. We upload any video interactions to our [YouTube channel](https://www.youtube.com/channel/UC_ZRbI2d7dtskvXzohhO7Sw/playlists) Bioinformatics Study Club
 
