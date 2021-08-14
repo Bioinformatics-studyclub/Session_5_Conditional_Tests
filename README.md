@@ -4,8 +4,8 @@ OUTCOMES
 <br>
 In this session we had a look at:
 
-1. How to use **conditional tests**
-2. Why conditional tests are useful
+1. Why conditional tests are useful 
+2. How to use **conditional tests**
 3. `if`, `elif` and `else` statements
 4. The `while` loop
 5. What to look out for when using conditionals such as `in`
