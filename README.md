@@ -1,14 +1,15 @@
 # Session_5_Conditional_Tests
 
 OUTCOMES
+<br>
 In this session we had a look at:
 
-1. How to wuse conditional tests
+1. How to use **conditional tests**
 2. Why conditional tests are useful
-3. if, elif and else statements
-4. The while loop
-5. What to look out for when using conditionals such as 'in'
-6. Some exercises with conditionals
+3. `if`, `elif` and `else` statements
+4. The `while` loop
+5. What to look out for when using conditionals such as `in`
+6. Some **exercises** with conditionals
 LAUNCH the Interactive Jupyter notebook HERE -> Binder
 
 ADDITIONAL NOTES
